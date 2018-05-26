@@ -10,7 +10,7 @@ public class Test1 {
 	public static void main(String args[]) throws ParseException, JsonProcessingException {
 		 
 		User user = new User();
-		user.setName("hello,word!");
+		user.setName("hello,word2!");
 		user.setEmail("abcd@163.com");
 		user.setAge(20);
 
