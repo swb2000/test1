@@ -19,6 +19,6 @@ public class Test1 {
 		ObjectMapper mapper = new ObjectMapper();
 		String json = mapper.writeValueAsString(user);
 		System.out.println(json);
-		System.out.println("end44");
+		System.out.println("end446");
 	}
 }
