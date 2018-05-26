@@ -8,8 +8,6 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class Test1 {
 	public static void main(String args[]) throws ParseException, JsonProcessingException {
-		System.out.println("hello,word!");
-
 		 
 		User user = new User();
 		user.setName("hello,word!");
