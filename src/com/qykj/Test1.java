@@ -20,7 +20,7 @@ public class Test1 {
 		String json = mapper.writeValueAsString(user);
 		System.out.println(json);
  
-		System.out.println("end446  5");
+		System.out.println("end446  55");
   
 	}
 }
